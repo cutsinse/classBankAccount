@@ -1,4 +1,4 @@
-# classBankAccount
+# Classes: The Bank Account
 My first class program! The bank account
 
 This is a very simple program that I used to create my first class as I learn Python Programming. 
